@@ -1,24 +1,28 @@
-<!-- Profile Title & GIF -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    
+<!-- Profile Title -->
 # Hi there 👋, I'm Dnyanesh Badave  
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
-
-  </div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;"/>
-</div>
 
 ---
 
 ## 🧑‍💻 About Me
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+<div>
+
 - 🎓 Pursuing **Master of Computer Application** at P.E.S. Modern College of Engineering, Pune  
 - 🌱 Currently exploring **React**, **Next.js**, **Tailwind CSS**  
 - 💬 Ask me about **Frontend Development**, **Java**, **Python**, **C#**, **SQL**  
 - 📍 Based in Pune, Maharashtra  
 - 📫 Reach me: **dnyaneshsb20@gmail.com**  
 
+</div>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px; margin-left: 20px;"/>
+
+</div>
+
 ---
+
 
 
 ## 🔗 Connect with Me
