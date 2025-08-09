@@ -5,21 +5,24 @@
 ---
 
 ## 🧑‍💻 About Me
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<div>
+<table>
+  <tr>
+    <td valign="middle" width="65%">
+      <ul>
+        <li>🎓 Pursuing <strong>Master of Computer Application</strong> at P.E.S. Modern College of Engineering, Pune</li>
+        <li>🌱 Currently exploring <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong></li>
+        <li>💬 Ask me about <strong>Frontend Development</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>C#</strong>, <strong>SQL</strong></li>
+        <li>📍 Based in Pune, Maharashtra</li>
+        <li>📫 Reach me: <strong>dnyaneshsb20@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td valign="middle" width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="fun gif" width="250" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 Pursuing **Master of Computer Application** at P.E.S. Modern College of Engineering, Pune  
-- 🌱 Currently exploring **React**, **Next.js**, **Tailwind CSS**  
-- 💬 Ask me about **Frontend Development**, **Java**, **Python**, **C#**, **SQL**  
-- 📍 Based in Pune, Maharashtra  
-- 📫 Reach me: **dnyaneshsb20@gmail.com**  
-
-</div>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px; margin-left: 20px;"/>
-
-</div>
 
 ---
 
