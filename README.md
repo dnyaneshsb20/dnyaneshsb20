@@ -17,8 +17,8 @@
         <li>📫 Reach me: <strong>dnyaneshsb20@gmail.com</strong></li>
       </ul>
     </td>
-    <td valign="middle" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="fun gif" width="250" />
+    <td valign="middle" width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;" />
     </td>
   </tr>
 </table>
