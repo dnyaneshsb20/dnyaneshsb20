@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Dnyanesh Badave  
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"/>
 
 ---
 
@@ -64,4 +64,4 @@
 ---
 
 ## ✍️ Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Every bug is just an opportunity to learn something new."
