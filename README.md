@@ -3,6 +3,7 @@
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"/>
+---
 
 ## 🧑‍💻 About Me
 - 🎓 Pursuing **Master of Computer Application** at P.E.S. Modern College of Engineering, Pune  
