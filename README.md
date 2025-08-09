@@ -1,8 +1,9 @@
 <!-- Profile Title & GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"/>
+
 # Hi there 👋, I'm Dnyanesh Badave  
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"/>
 ---
 
 ## 🧑‍💻 About Me
