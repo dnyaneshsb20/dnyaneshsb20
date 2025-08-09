@@ -1,8 +1,13 @@
 <!-- Profile Title & GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"/>
-
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div>
+    
 # Hi there 👋, I'm Dnyanesh Badave  
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
+
+  </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;"/>
+</div>
 
 ---
 
@@ -14,6 +19,7 @@
 - 📫 Reach me: **dnyaneshsb20@gmail.com**  
 
 ---
+
 
 ## 🔗 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnyaneshsb20@gmail.com)
