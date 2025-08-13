@@ -11,8 +11,8 @@
     <td valign="middle" width="65%">
       <ul>
         <li>🎓 Pursuing <strong>Master of Computer Application</strong> at P.E.S. Modern College of Engineering, Pune</li>
-        <li>🌱 Currently exploring <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong></li>
-        <li>💬 Ask me about <strong>Frontend Development</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>C#</strong>, <strong>SQL</strong></li>
+        <li>🌱 Currently exploring <strong>React</strong>, <strong>Node.js</strong>, <strong>Tailwind CSS</strong></li>
+        <li>💬 Ask me about <strong>Frontend Development</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>C#</strong>, <strong>SQL</strong>, <strong>PHP</strong></li>
         <li>📍 Based in Pune, Maharashtra</li>
         <li>📫 Reach me: <strong>dnyaneshsb20@gmail.com</strong></li>
       </ul>
@@ -54,9 +54,10 @@
 ---
 
 ## 🚀 Featured Projects
-- [**Milk Products Management System**](#) – A C# & MySQL desktop application for dairy shop owners to calculate bills, maintain records, and save time.
-- [**User Authentication System**](#) – A Java & Oracle-based web app for secure login and registration with encrypted passwords.
-- [**Scan and See – AR for Instant Data Access**](#) – An AR project using QR codes, Supabase, and Android app integration for instant card detail display.
+- [**Milk Products Management System**](https://github.com/dnyaneshsb20/Milk-Products-Management-System) – A C# & MySQL desktop application for dairy shop owners to calculate bills, maintain records, and save time.
+- [**User Authentication System**](https://github.com/dnyaneshsb20/User-Authentication-System) – A Java & Oracle-based web app for secure login and registration with encrypted passwords.
+- [**Scan and See – AR for Instant Data Access**](https://github.com/dnyaneshsb20/Scan-and-See---Augumented-Reality-Instant-Data-Access) – An AR project using QR codes, Supabase, and Android app integration for instant card detail display.
+
 
 ---
 
