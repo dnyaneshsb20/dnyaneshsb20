@@ -54,10 +54,13 @@
 ---
 
 ## 🚀 Featured Projects
-- [**Milk Products Management System**](https://github.com/dnyaneshsb20/Milk-Products-Management-System) – A C# & MySQL desktop application for dairy shop owners to calculate bills, maintain records, and save time.
-- [**User Authentication System**](https://github.com/dnyaneshsb20/User-Authentication-System) – A Java & Oracle-based web app for secure login and registration with encrypted passwords.
-- [**Scan and See – AR for Instant Data Access**](https://github.com/dnyaneshsb20/Scan-and-See---Augumented-Reality-Instant-Data-Access) – An AR project using QR codes, Supabase, and Android app integration for instant card detail display.
+- [**Milk Products Management System**](https://github.com/dnyaneshsb20/Milk-Products-Management-System) – I have created a CSharp and MySQL-based Milk Products Management System to help Dairy Shop Owners. It will
+easily calculate bills, maintain records, reduce manual work, and save time.
+- [**User Authentication System**](https://github.com/dnyaneshsb20/User-Authentication-System) – I have created a Java and Oracle-based User Authentication System to help websites and applications manage user login and registration. Securely verifies user details, stores log-in data, and prevents unauthorized access, making the system safer and more reliable. I learned on my own how to use Java to safely store passwords by converting them into a secure
+format.
+- [**Scan and See – AR for Instant Data Access**](https://github.com/dnyaneshsb20/Scan-and-See---Augumented-Reality-Instant-Data-Access) – I created an AR project called ’Scan and See’ using the AR Studio website and a separate Android app. It scans QR codes, checks the link with Supabase, and shows card details if the link is valid. I learned on my own how to connect the app to Supabase and match the QR codes scanned with the stored data.
 
+- - [**Data Packet Flow in Network Layer**](https://github.com/dnyaneshsb20/Data-Packet-Flow-in-Network-Layer) – Created a web-based interactive simulation using HTML, CSS, and JavaScript to visually represent how data packets travel through the network layer. The tool demonstrates IP packet flow, routing decisions, and path traversal across routers, enhancing conceptual clarity of OSI Layer 3. Designed with a user-friendly interface to support educational use.
 
 ---
 
@@ -75,7 +78,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Dnyanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyaneshsb20&show_icons=true&theme=radical)
+![Dnyanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyaneshsb20&show_icons=true&theme=radical&cache_seconds=0)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshsb20&layout=compact&theme=radical)
 
 ---
