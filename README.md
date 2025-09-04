@@ -1,5 +1,5 @@
 <!-- Profile Title -->
-# Hi there 👋, I'm Dnyanesh Badave  
+# Hi, I'm Dnyanesh Badave  
 🚀 Passionate Full Stack Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner  
 
 ---
