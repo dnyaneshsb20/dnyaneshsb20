@@ -79,6 +79,17 @@ format.
 - [**Paddle Battle – 2 Player Ball Game**](https://github.com/dnyaneshsb20/PONG-Game) – Python Turtle graphics game where two players control paddles to hit a ball; first to 5 points wins.
 
 ---
+
+## Work Experience
+
+### **Full Stack Developer Intern — Media Urbana (Remote)**  
+**Aug 2025 – Nov 2025**  
+- Built engaging and mobile-friendly web interfaces using **Tailwind CSS**, **HTML5**, and **JavaScript** to improve user interactions.  
+- Implemented modern UI/UX principles and responsive layouts to ensure consistent performance across all device types.  
+- Worked mainly on **frontend development**, while also contributing to backend features when needed.
+
+---
+
 ## 🏆 Achievements
 
 ### **Winner – COEP MindSpark’25 TATA Motors Hackathon (2025)**  
@@ -88,6 +99,7 @@ format.
 - Produced **JSON outputs** and **annotated video frames**, visualized via a Streamlit dashboard for seamless monitoring and verification.  
 - Delivered a practical, industry-relevant solution for **automotive assembly verification**, demonstrating strong technical innovation and problem-solving skills.
 
+---
 
 ## GitHub Stats
 ![Dnyanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyaneshsb20&show_icons=true&theme=radical&cache_seconds=0)
