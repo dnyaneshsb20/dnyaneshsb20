@@ -1,7 +1,6 @@
 <!-- Profile Title -->
 # Hi, I'm Dnyanesh Badave  
-Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner  
-
+Passionate Full Stack Developer | Winner COEP MindSpark'25 - TATA Motors Hackathon | MCA Student | Tech Enthusiast | Lifelong Learner  
 ---
 
 ## About Me
@@ -38,14 +37,35 @@ Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
+## Work Experience
+
+### **Full Stack Developer Intern — Media Urbana (Remote)**  
+**Aug 2025 – Nov 2025**  
+- Built engaging and mobile-friendly web interfaces using **Tailwind CSS**, **HTML5**, and **JavaScript** to improve user interactions.  
+- Implemented modern UI/UX principles and responsive layouts to ensure consistent performance across all device types.  
+- Worked mainly on **frontend development**, while also contributing to backend features when needed.
+
+---
+
+## 🏆 Achievements and Awards
+
+### **Winner – COEP MindSpark’25 TATA Motors Hackathon (2025)**  
+- Secured **1st place** among participating teams (Team of 4) by developing a **real-time assembly process verification system** using Vision Large Language Models (VLLMs).  
+- Implemented a demo using **Airdopes assembly** to detect missed or incorrect steps in real time, reducing rework, recalls, and safety risks.  
+- Built the system using **Python**, **Streamlit** (UI), **OpenCV** (video processing), **YOLOv8** (object detection), and **VLLM** (reasoning).  
+- Produced **JSON outputs** and **annotated video frames**, visualized via a Streamlit dashboard for seamless monitoring and verification.  
+- Delivered a practical, industry-relevant solution for **automotive assembly verification**, demonstrating strong technical innovation and problem-solving skills.
+
+---
+
 ## Tech Stack
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,7 +83,6 @@ Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Data Engineering
@@ -80,7 +99,9 @@ Passionate Full Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Community 2015](https://img.shields.io/badge/VS_Community_2015-68217A?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -115,27 +136,6 @@ format.
 - [**Work Sessions**](https://github.com/dnyaneshsb20/Work-Sessions) – Desktop tool that tracks work sessions with start/end times, helping monitor productivity.
 - [**Password Manager**](https://github.com/dnyaneshsb20/Password-Manager-Project) – Python desktop app that stores and manages passwords, generates random passwords, and saves login details using Tkinter interface.
 - [**Paddle Battle – 2 Player Ball Game**](https://github.com/dnyaneshsb20/PONG-Game) – Python Turtle graphics game where two players control paddles to hit a ball; first to 5 points wins.
-
----
-
-## Work Experience
-
-### **Full Stack Developer Intern — Media Urbana (Remote)**  
-**Aug 2025 – Nov 2025**  
-- Built engaging and mobile-friendly web interfaces using **Tailwind CSS**, **HTML5**, and **JavaScript** to improve user interactions.  
-- Implemented modern UI/UX principles and responsive layouts to ensure consistent performance across all device types.  
-- Worked mainly on **frontend development**, while also contributing to backend features when needed.
-
----
-
-## 🏆 Achievements
-
-### **Winner – COEP MindSpark’25 TATA Motors Hackathon (2025)**  
-- Secured **1st place** among participating teams (Team of 4) by developing a **real-time assembly process verification system** using Vision Large Language Models (VLLMs).  
-- Implemented a demo using **Airdopes assembly** to detect missed or incorrect steps in real time, reducing rework, recalls, and safety risks.  
-- Built the system using **Python**, **Streamlit** (UI), **OpenCV** (video processing), **YOLOv8** (object detection), and **VLLM** (reasoning).  
-- Produced **JSON outputs** and **annotated video frames**, visualized via a Streamlit dashboard for seamless monitoring and verification.  
-- Delivered a practical, industry-relevant solution for **automotive assembly verification**, demonstrating strong technical innovation and problem-solving skills.
 
 ---
 
