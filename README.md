@@ -39,6 +39,14 @@ Passionate Full Stack Developer | Winner COEP MindSpark'25 - TATA Motors Hackath
 
 ## Work Experience
 
+### **Software Engineering Intern — TATA Motors (Pimpri-Chinchwad, Pune, Maharashtra)**
+
+**Dec 2025 – Present**
+
+* Worked on data processing and visualization tasks for internal applications to support analytical insights and decision-making workflows.
+* Assisted in integrating AI-based components into existing software systems under the guidance of senior engineers.
+* Collaborated with cross-functional teams to understand production-level software workflows and contribute to scalable, maintainable solutions.
+
 ### **Full Stack Developer Intern — Media Urbana (Remote)**  
 **Aug 2025 – Nov 2025**  
 - Built engaging and mobile-friendly web interfaces using **Tailwind CSS**, **HTML5**, and **JavaScript** to improve user interactions.  
