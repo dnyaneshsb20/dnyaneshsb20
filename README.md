@@ -85,20 +85,6 @@ Passionate Full Stack Developer | Winner COEP MindSpark'25 - TATA Motors Hackath
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Data Engineering
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -112,7 +98,6 @@ Passionate Full Stack Developer | Winner COEP MindSpark'25 - TATA Motors Hackath
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -122,6 +107,9 @@ Passionate Full Stack Developer | Winner COEP MindSpark'25 - TATA Motors Hackath
 ## Featured Projects
 - **Campus Z – Smart Campus Ecosystem (SIH Project | Real-Time Problem Statement)** – We built a full-stack smart campus management system designed to digitalize academics, administration, student services, and campus workflows. Our solution includes smart attendance (QR/Face/Geo-fence), centralized student profiles, grievance management, event & club activity portal, smart timetable automation, transport & hostel management, and an admin analytics dashboard. We created a fully working prototype demonstrating how a single platform can improve transparency, reduce manual work, and enhance student–faculty communication. Built using PHP, MySQL, JavaScript, HTML, and Tailwind CSS, the system offers real-time dashboards, automated workflows, and data-driven decision insights. This project helped me understand how to design scalable systems for large institutions and build solutions aligned with real-world SIH problem statements.
 - [**AI-Powered Assembly Verification System (Hackathon Project | Real Time Problem Statement)**](https://github.com/dnyaneshsb20/Code_Pirates_Hackathon_PS-4) - We built a real-time assembly verification system using Vision Large Language Models (VLLMs). Our solution detects missing or incorrect steps during product assembly and helps prevent rework, recalls, and safety issues. We created a working demo using the Airdopes assembly process, where the system identified mistakes instantly. The project was built using Python, Streamlit for the dashboard, OpenCV for video processing, YOLOv8 for object detection, and VLLM for reasoning. The system generates JSON outputs and annotated frames that can be viewed on a live Streamlit dashboard. This project taught me how to combine AI vision models with real-time monitoring to solve real industry problems.
+- [**AeroCommand – Drone Fleet Management and Mission Orchestration Platform (Full-Stack Project —Real-Time Systems)**](https://github.com/dnyaneshsb20/aero-command) - Developed a full-stack drone operations platform to plan, monitor, and analyze autonomous drone missions in real time. Built using React, Node.js, Express, PostgreSQL (Supabase), and Prisma ORM, the system enables mission configuration, drone assignment, real-time mission status tracking (launch, pause, resume, abort), and post-mission survey analytics through an interactive dashboard, demonstrating scalable architecture and real-world UAV operations management.
+- [**IndusBot – A Multilingual AI Assistant for Machine Maintenance (Full-Stack Project — Real-TimeSystems)**](https://github.com/dnyaneshsb20/Indus_Bot) - A multilingual AI-powered assistant for industrial machine troubleshooting. IndusBot enables operators to report machine issues in regional languages and receive accurate, context-aware solutions using vector embeddings and Large Language Models, improving maintenance efficiency and reducing downtime.
+- [**SmartQRDocs – Secure QR-Based Academic Document Verification (Hackathon Project — Real-Time Problem Statement)**](https://github.com/dvstechy/my-expo-app) - SmartQRDocs is a role-based digital document system that enables students to upload documents once and generate secure, named QR codes for controlled sharing. Verifiers instantly scan QR codes to view documents and their real-time verification status. Built to prevent forgery, duplication, and paperwork, it streamlines admissions, scholarships, and inter-institutional verification with enhanced transparency and security.
 - [**Heritage Bites (Research Project)**](https://github.com/dnyaneshsb20/ResearchProjectHeritageBites) – I built a full-stack recipe and e-marketplace platform using React, Supabase, FastAPI, and Tailwind CSS. Heritage Bites allows users to explore traditional recipes, buy farm-fresh ingredients, leave reviews, and interact with an AI-powered chatbot. It includes features like recipe management, user dashboards, farmer product listings, an order system, sentiment analysis for feedback, and a secure authentication flow. While building it, I learned how to integrate Supabase for real-time data, implement multi-role systems (users, farmers, admin), and connect ML models with FastAPI for smart feedback insights.
 - [**MediCloud**](https://github.com/dnyaneshsb20/medicloud) - I created a full-stack healthcare management system using React, TypeScript, Supabase, and Tailwind CSS. MediCloud helps doctors, patients, and pharmacists manage appointments, prescriptions, and medical records in real time. It includes doctor dashboards, patient dashboards, prescription handling, and a pharmacist module. I learned how to build real-time data features using Supabase and manage multiple user roles in one system.
 - [**Milk Products Management System**](https://github.com/dnyaneshsb20/Milk-Products-Management-System) – I have created a CSharp and MySQL-based Milk Products Management System to help Dairy Shop Owners. It will
@@ -148,10 +136,10 @@ format.
 ---
 
 ## GitHub Stats
-![Dnyanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyaneshsb20&show_icons=true&theme=radical&count_private=true&cache_seconds=0&token=YOUR_GITHUB_TOKEN)
+![Dnyanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyaneshsb20&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshsb20&layout=compact&theme=radical)
 
 ---
 
-## ✍️ Quote of the Day
+## Quote of the Day
 > "Every bug is just an opportunity to learn something new."
