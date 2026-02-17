@@ -1,6 +1,6 @@
 <!-- Profile Title -->
 # Hi, I'm Dnyanesh Badave  
-Passionate Full Stack Developer | Winner COEP MindSpark'25 - TATA Motors Hackathon | MCA Student | Tech Enthusiast | Lifelong Learner  
+Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media Urbana | Winner COEP MindSpark'25 - TATA Motors Hackathon |
 ---
 
 ## About Me
