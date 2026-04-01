@@ -135,11 +135,5 @@ format.
 
 ---
 
-## GitHub Stats
-![Dnyanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyaneshsb20&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshsb20&layout=compact&theme=radical)
-
----
-
 ## Quote of the Day
 > "Every bug is just an opportunity to learn something new."
