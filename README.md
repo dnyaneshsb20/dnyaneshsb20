@@ -1,6 +1,6 @@
 <!-- Profile Title -->
 # Hi, I'm Dnyanesh Badave  
-Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media Urbana | Winner COEP MindSpark'25 - TATA Motors Hackathon |
+Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media Urbana | Winner COEP MindSpark'25 - TATA Motors Hackathon
 ---
 
 ## About Me
@@ -43,9 +43,16 @@ Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media U
 
 **Dec 2025 – Present**
 
-* Worked on data processing and visualization tasks for internal applications to support analytical insights and decision-making workflows.
-* Assisted in integrating AI-based components into existing software systems under the guidance of senior engineers.
-* Collaborated with cross-functional teams to understand production-level software workflows and contribute to scalable, maintainable solutions.
+- Developed Retrieval-Augmented Generation (RAG) pipelines using vector embeddings, document chunking, and Large Language Models (LLMs) to enable intelligent retrieval of information from industrial machine manuals and technical documents.
+- Built AI-powered document processing workflows for extracting, indexing, and retrieving contextual information from unstructured PDF-based maintenance and operational data.
+- Designed and maintained data ingestion pipelines by collecting, cleaning, validating, and organizing large-scale automotive datasets into structured formats for analytics and decision-making.
+- Developed automated web scraping solutions to collect OEM, model, variant, pricing, feature, advertisement, and offer-related automotive data from multiple online sources.
+- Created and optimized backend APIs supporting vehicle benchmarking, feature comparison, pricing analysis, and competitive intelligence applications.
+- Designed database schemas and migrated spreadsheet-based datasets into structured database systems, improving scalability, consistency, and maintainability.
+- Contributed to frontend development by enhancing user interfaces, integrating APIs, developing reusable UI components, and improving overall user experience.
+- Implemented reporting and analytics features including Excel exports, feature benchmarking modules, competitor analysis, and automated business intelligence workflows.
+- Collaborated with cross-functional teams to optimize application performance, automate data collection processes, reduce manual effort, and support deployment readiness of enterprise applications.
+- Tech Stack: Python, RAG, Vector Embeddings, LLMs, Web Scraping, REST APIs, PostgreSQL, MySQL, JavaScript, React, HTML, CSS, Streamlit, Excel Automation, Git, GitHub.
 
 ### **Full Stack Developer Intern — Media Urbana (Remote)**  
 **Aug 2025 – Nov 2025**  
