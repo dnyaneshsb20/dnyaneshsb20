@@ -1,6 +1,6 @@
 <!-- Profile Title -->
 # Hi, I'm Dnyanesh Badave  
-Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media Urbana | Winner COEP MindSpark'25 - TATA Motors Hackathon
+Software Engineering Intern@TATA Motors Digital.AI Labs | ex-Intern@Media Urbana | Winner COEP MindSpark'25 - TATA Motors Hackathon
 ---
 
 ## About Me
