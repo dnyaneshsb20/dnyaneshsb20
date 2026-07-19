@@ -8,14 +8,16 @@ Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media U
 <table>
   <tr>
     <td valign="middle" width="65%">
-      <ul>
-        <li> Pursuing <strong>Master of Computer Application</strong> at P.E.S. Modern College of Engineering, Pune</li>
-        <li> Currently exploring <strong>React</strong>, <strong>Node.js</strong>, <strong>Tailwind CSS</strong></li>
-        <li> Ask me about <strong>Frontend Development</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>C#</strong>, <strong>SQL</strong>, <strong>PHP</strong></li>
-        <li> Based in Pune, Maharashtra</li>
-        <li> Reach me: <strong>dnyaneshsb20@gmail.com</strong></li>
-      </ul>
-    </td>
+  <ul>
+    <li>Completed <strong>Master of Computer Applications (MCA)</strong> from P.E.S. Modern College of Engineering, Pune</li>
+    <li>Currently working as a <strong>Software Engineering Intern at Tata Motors Digital.AI Labs</strong></li>
+    <li>Interested in <strong>Generative AI</strong>, <strong>Large Language Models (LLMs)</strong>, <strong>RAG</strong>, <strong>FastAPI</strong>, and <strong>Full-Stack Development</strong></li>
+    <li>Ask me about <strong>Python</strong>, <strong>Java</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>FastAPI</strong>, <strong>SQL</strong>, and <strong>REST APIs</strong></li>
+    <li>Winner of the <strong>Tata Motors Hackathon (COEP MindSpark '25)</strong> and <strong>Top 6 Nationally</strong> at Navonmesh 2026</li>
+    <li>Based in <strong>Pune, Maharashtra, India</strong></li>
+    <li>Reach me at <strong>dnyaneshsb20@gmail.com</strong></li>
+  </ul>
+</td>
     <td valign="middle" width="35%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 10px;" />
     </td>
@@ -39,26 +41,22 @@ Software Engineering Intern@TATA Motors | ex-Full Stack Developer Intern@Media U
 
 ## Work Experience
 
-### **Software Engineering Intern — TATA Motors (Pimpri-Chinchwad, Pune, Maharashtra)**
+### **Software Engineering Intern — TATA Motors Digital.AI Labs (Pimpri-Chinchwad, Pune, Maharashtra)**
 
 **Dec 2025 – Present**
 
-- Developed Retrieval-Augmented Generation (RAG) pipelines using vector embeddings, document chunking, and Large Language Models (LLMs) to enable intelligent retrieval of information from industrial machine manuals and technical documents.
-- Built AI-powered document processing workflows for extracting, indexing, and retrieving contextual information from unstructured PDF-based maintenance and operational data.
-- Designed and maintained data ingestion pipelines by collecting, cleaning, validating, and organizing large-scale automotive datasets into structured formats for analytics and decision-making.
-- Developed automated web scraping solutions to collect OEM, model, variant, pricing, feature, advertisement, and offer-related automotive data from multiple online sources.
-- Created and optimized backend APIs supporting vehicle benchmarking, feature comparison, pricing analysis, and competitive intelligence applications.
-- Designed database schemas and migrated spreadsheet-based datasets into structured database systems, improving scalability, consistency, and maintainability.
-- Contributed to frontend development by enhancing user interfaces, integrating APIs, developing reusable UI components, and improving overall user experience.
-- Implemented reporting and analytics features including Excel exports, feature benchmarking modules, competitor analysis, and automated business intelligence workflows.
-- Collaborated with cross-functional teams to optimize application performance, automate data collection processes, reduce manual effort, and support deployment readiness of enterprise applications.
-- Tech Stack: Python, RAG, Vector Embeddings, LLMs, Web Scraping, REST APIs, PostgreSQL, MySQL, JavaScript, React, HTML, CSS, Streamlit, Excel Automation, Git, GitHub.
+- Engineer a RAG pipeline using vector embeddings and LLMs across 200+ industrial manuals, cutting manual lookup time by 50% and resolving queries in under 10 seconds.
+- Automate AI-driven document workflows processing 100+ unstructured PDFs/month, reducing manual review effort by 40%.
+- Modernize data infrastructure by migrating 50K+ automotive records and 20+ spreadsheet datasets into normalized PostgreSQL/MySQL schemas, improving data accuracy by 30% and query performance by 25%.
+- Build automated web scraping pipelines spanning 15+ OEMs and 100+ models, replacing manual data collection and saving 10+ hours/week.
+- Optimize 8+ FastAPI microservices and React frontend components while automating Excel/BI reporting, cutting report generation time by 45%.
 
 ### **Full Stack Developer Intern — Media Urbana (Remote)**  
 **Aug 2025 – Nov 2025**  
-- Built engaging and mobile-friendly web interfaces using **Tailwind CSS**, **HTML5**, and **JavaScript** to improve user interactions.  
-- Implemented modern UI/UX principles and responsive layouts to ensure consistent performance across all device types.  
-- Worked mainly on **frontend development**, while also contributing to backend features when needed.
+- Built 5+ responsive web interfaces using Tailwind CSS, HTML5, PHP, and JavaScript, improving page load speed by 20%.
+- Standardized responsive layouts across 5+ device sizes, reducing UI-related bug reports by 30%.
+- Delivered 10+ frontend features and supported backend functionality, cutting development turnaround time by 25%.
+- Collaborated with a 3-member team to ship 6+ client website updates, maintaining 100% on-time delivery.
 
 ---
 
