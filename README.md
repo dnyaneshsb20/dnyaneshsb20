@@ -1,6 +1,6 @@
 <!-- Profile Title -->
 # Hi, I'm Dnyanesh Badave  
-Software Engineering Intern@TATA Motors Digital.AI Labs | ex-Intern@Media Urbana | Winner COEP MindSpark'25 - TATA Motors Hackathon
+Junior Data Scientist @ SA Technologies | ex-Intern@TATA Motors Digital.AI Labs | Winner COEP MindSpark'25 - TATA Motors Hackathon
 ---
 
 ## About Me
@@ -10,10 +10,10 @@ Software Engineering Intern@TATA Motors Digital.AI Labs | ex-Intern@Media Urbana
     <td valign="middle" width="65%">
   <ul>
     <li>Completed <strong>Master of Computer Applications (MCA)</strong> from P.E.S. Modern College of Engineering, Pune</li>
-    <li>Currently working as a <strong>Software Engineering Intern at Tata Motors Digital.AI Labs</strong></li>
+    <li>Currently working as a <strong>Junior Data Scientist at SA Technologies</strong></li>
     <li>Interested in <strong>Generative AI</strong>, <strong>Large Language Models (LLMs)</strong>, <strong>RAG</strong>, <strong>FastAPI</strong>, and <strong>Full-Stack Development</strong></li>
     <li>Ask me about <strong>Python</strong>, <strong>Java</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>FastAPI</strong>, <strong>SQL</strong>, and <strong>REST APIs</strong></li>
-    <li>Winner of the <strong>Tata Motors Hackathon (COEP MindSpark '25)</strong> and <strong>Top 6 Nationally</strong> at Navonmesh 2026</li>
+    <li>Winner of the <strong>TATA Motors Hackathon (COEP MindSpark '25)</strong> and <strong>Top 6 Nationally</strong> at Navonmesh 2026</li>
     <li>Based in <strong>Pune, Maharashtra, India</strong></li>
     <li>Reach me at <strong>dnyaneshsb20@gmail.com</strong></li>
   </ul>
@@ -41,9 +41,19 @@ Software Engineering Intern@TATA Motors Digital.AI Labs | ex-Intern@Media Urbana
 
 ## Work Experience
 
+### **Junior Data Scientist — SA Technologies (Pune, Maharashtra)**
+
+**Aug 2026 – Present**
+
+- Contribute to the development and enhancement of scalable software applications, focusing on clean, maintainable, and production-ready solutions.
+- Develop and integrate backend APIs and frontend components while collaborating with cross-functional teams to deliver application features.
+- Work with modern development frameworks, databases, and cloud/AI technologies to build and optimize application workflows.
+- Troubleshoot and resolve application issues, improving system reliability, performance, and overall user experience.
+- Participate in code reviews, debugging, testing, and deployment activities while following industry-standard software development practices.
+
 ### **Software Engineering Intern — TATA Motors Digital.AI Labs (Pimpri-Chinchwad, Pune, Maharashtra)**
 
-**Dec 2025 – Present**
+**Dec 2025 – Aug 2026**
 
 - Engineer a RAG pipeline using vector embeddings and LLMs across 200+ industrial manuals, cutting manual lookup time by 50% and resolving queries in under 10 seconds.
 - Automate AI-driven document workflows processing 100+ unstructured PDFs/month, reducing manual review effort by 40%.
